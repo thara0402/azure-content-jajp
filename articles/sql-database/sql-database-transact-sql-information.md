@@ -36,7 +36,7 @@
 
 ## SQL Database V12 で部分的にサポートされる機能
 
-SQL Database V12 では、該当 SQL Server 2016 Transact-SQL ステートメントに存在する引数の全部ではなく一部がサポートされています。たとえば、CREATE PROCEDURE ステートメントは利用できますが、CREATE PROCEDURE の WITH ENCRYPTION オプションは利用できません。各ステートメントのサポートされる領域については、リンクされている構文トピックを参照してください。
+SQL Database V12 では、該当 SQL Server 2016 Transact-SQL ステートメントに存在する引数の全部ではなく一部がサポートされています。各ステートメントのサポートされる領域については、リンクされている構文トピックを参照してください。
 
 - データベース: [CREATE](https://msdn.microsoft.com/library/dn268335.aspx)/[ALTER](https://msdn.microsoft.com/library/ms174269.aspx)
 - DMV は一般的に利用できる機能で利用できます
